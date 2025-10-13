@@ -34,8 +34,16 @@ Replace train.csv and eval.csv with the paths to the desired training and evalua
 
 ## Cite us
 
-If you find this repo useful or you use our dataseta, please cite us!
+```markdown
+## Cite Us
 
+If you find this repository useful or use our dataset, please cite:
+
+> **Damo, Greta; Cabrio, Elena; Villata, Serena (2025).**  
+> *Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study.*  
+> arXiv preprint **arXiv:2506.11919**
+
+```bibtex
 @article{damo2025effectiveness,
   title={Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study},
   author={Damo, Greta and Cabrio, Elena and Villata, Serena},
