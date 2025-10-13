@@ -1,6 +1,6 @@
 # Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study
 
-This repository contains data and code of the paper "Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study", accepted at WI-IAT 2025.
+This repository contains data and code of the paper **"Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study"**, accepted at WI-IAT 2025.
 
 
 ## Content
