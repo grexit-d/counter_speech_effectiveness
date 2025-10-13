@@ -9,8 +9,8 @@ We release the two datasets annotated with the our six effectiveness dimensions.
 Additionally, We release the two samples that were used to calculate the Inter Annotator Agreement (IAA) between three annotators. 
 
 - [Data](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data) contains all the data used for the IAA, organized by first and last annotation rounds. The full annotated datasets will be publicly available upon paper's acceptance.
-   - The full annotated datasets are in the folder [Annotated datasets](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data/Annotated datasets).
-   - The samples used for the IAA are in the folder [IAA Data](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data/IAA Data).
+   - The full annotated datasets are in the folder [Annotated datasets](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data/Annotated\datasets).
+   - The samples used for the IAA are in the folder [IAA Data](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data/IAA\Data).
 - [Guidelines](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Guidelines) contains the annotation guidelines. To view them, download the PDF file and open it on your computer.
 - [notebooks](notebooks) includes the code used in the experiments:
   - `bert_baselines.ipynb`: Baseline models (Bert_CS and Bert_CS_HS)
