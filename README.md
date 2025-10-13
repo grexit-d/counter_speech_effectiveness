@@ -34,9 +34,6 @@ Replace train.csv and eval.csv with the paths to the desired training and evalua
 
 ## Cite us
 
-```markdown
-## Cite Us
-
 If you find this repository useful or use our dataset, please cite:
 
 > **Damo, Greta; Cabrio, Elena; Villata, Serena (2025).**  
@@ -50,3 +47,4 @@ If you find this repository useful or use our dataset, please cite:
   journal={arXiv preprint arXiv:2506.11919},
   year={2025}
 }
+```
