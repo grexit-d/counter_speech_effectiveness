@@ -27,9 +27,22 @@ Replace train.csv and eval.csv with the paths to the desired training and evalua
 - [full_results.xlsx](full_results.xlsx) contains the full results of all the experiments in the paper.
 
 
-## Datasets
+## Download datasets from HuggingFace Datasets
+You can also download the datasets using huggingface directly through this dataset card (https://huggingface.co/collections/grexit-d/counter-speech-effectiveness-evaluation-68ecf97ec620fcd57d7fa5e2) 
+and running in your Python scripts:
 
 
+```python
+from datasets import load_dataset
+
+# Login using e.g. `huggingface-cli login` to access this dataset
+ds = load_dataset("grexit-d/conan_effectiveness")
+
+from datasets import load_dataset
+
+# Login using e.g. `huggingface-cli login` to access this dataset
+ds = load_dataset("grexit-d/twitter_effectiveness")
+```
 
 
 ## Cite us
