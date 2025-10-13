@@ -1,10 +1,12 @@
 # Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study
 
-This repository contains data and code of the paper "Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study".
+This repository contains data and code of the paper "Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study", accepted at WI-IAT 2025.
 
-We annotated two datasets, containing hate-speech/counter-speech pairs, CONAN (Chung et al., 2019), and Twitter Dataset (Albanyan & Blanco, 2022). We release two samples of 50 examples each, taken from both datasets. 
+We annotated two datasets, containing hate-speech/counter-speech pairs, CONAN (Chung et al., 2019), and Twitter Dataset (Albanyan & Blanco, 2022).
 
-The two samples were used to calculate the Inter Annotator Agreement (IAA) between three annotators. 
+We release the two datasets annotated with the our six effectiveness dimensions. 
+
+Additionally, We release the two samples that were used to calculate the Inter Annotator Agreement (IAA) between three annotators. 
 
 - [Data](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Data) contains all the data used for the IAA, organized by first and last annotation rounds. The full annotated datasets will be publicly available upon paper's acceptance.
 - [Guidelines](https://github.com/grexit-d/counter-speech_effectiveness/tree/main/Guidelines) contains the annotation guidelines. To view them, download the PDF file and open it on your computer.
