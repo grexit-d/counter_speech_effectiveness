@@ -18,7 +18,7 @@ Additionally, We release the two samples that were used to calculate the Inter A
   - `bert_baselines.ipynb`: Baseline models (Bert_CS and Bert_CS_HS)
   - `learnable_dependency_matrix.py`: Multi-task and Dependency Matrix models
     
-To run the `learnable_dependency_matrix.py` script, use the following command in the terminal:
+To run the `learnable_dependency_matrix.py` script, use the following command in the terminal, after having cloned locally the repo:
 
  `python learnable_dependency_matrix.py --train-file data/train.csv --eval-file data/eval.csv`
   
