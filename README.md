@@ -3,7 +3,7 @@
 This repository contains data and code of the paper "Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study", accepted at WI-IAT 2025.
 
 
-## Repository's structure
+## Content
 We annotated two datasets, containing hate-speech/counter-speech pairs, CONAN (Chung et al., 2019), and Twitter Dataset (Albanyan & Blanco, 2022).
 
 We release the two datasets annotated with the our six effectiveness dimensions. 
