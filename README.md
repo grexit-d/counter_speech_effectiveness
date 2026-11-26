@@ -51,13 +51,15 @@ If you find this repository useful or use our dataset, please cite:
 
 > **Damo, Greta; Cabrio, Elena; Villata, Serena (2025).**  
 > *Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study.*  
-> arXiv preprint **arXiv:2506.11919**
+> IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2025.
 
 ```bibtex
 @article{damo2025effectiveness,
-  title={Effectiveness of Counter-Speech against Abusive Content: A Multidimensional Annotation and Classification Study},
-  author={Damo, Greta and Cabrio, Elena and Villata, Serena},
-  journal={arXiv preprint arXiv:2506.11919},
-  year={2025}
+  title={Effectiveness of Counter-Speech Against Abusive Content: A Multidimensional Annotation and Classification Study},
+  author={Greta Damo and Elena Cabrio and Serena Villata},
+  journal={2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)},
+  year={2025},
+  pages={399-406},
+  url={https://api.semanticscholar.org/CorpusID:279392043}
 }
 ```
